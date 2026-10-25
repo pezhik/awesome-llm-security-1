@@ -130,6 +130,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/foro-sh/pii-mcp?style=social) [**pii-mcp**](https://github.com/foro-sh/pii-mcp): MCP middleware that redacts PII from tool results before they reach the model
 - [AIDEFEND](https://edward-playground.github.io/aidefense-framework/): Practical knowledge base for AI security defenses
 - [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard): Reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory.
+-  ![GitHub Repo stars](https://img.shields.io/github/stars/securetron-gh/aifw?style=social) [**AI-FW**](https://aifw.io): Self-hosted AI firewall and governance gateway for AI agents: prompt-injection/jailbreak blocking, PII masking, policy enforcement, model routing, and metadata-only audit logging. Free community edition.
 
 ---
 
